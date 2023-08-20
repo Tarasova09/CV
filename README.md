@@ -1,2 +1,2 @@
 # CV
-[CV](Downloads/CV_Tarasova_A)
+[CV](CV_Tarasova_A)
